@@ -1,5 +1,4 @@
-### Hi, there
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=lucila+console&pause=1000&color=F7F7F7&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=435&lines=hi%2C+there!;i'm+sara+and...;i'm+%F0%9F%94%99%F0%9F%94%9A+developer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=lucila+console&pause=1000&color=F4A460&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=435&lines=hi%2C+there!;i'm+sara+and...;i'm+%F0%9F%94%99%F0%9F%94%9A+developer+)](https://git.io/typing-svg)
 
 ### Tecnologias que eu utilizo:
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=9400D3&labelColor=0D1117)&nbsp; 
