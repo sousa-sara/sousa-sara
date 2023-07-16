@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=lucila+console&pause=1000&color=F4A460&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=435&lines=hi%2C+there!;i'm+sara+and...;i'm+%F0%9F%94%99%F0%9F%94%9A+developer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=lucila+console&pause=1000&color=0078d7&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=435&lines=hi%2C+there!;i'm+sara+and...;i'm+%F0%9F%94%99%F0%9F%94%9A+developer+)](https://git.io/typing-svg)
 
-### Tecnologias que eu utilizo:
+### Tecnologias:
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=9400D3&labelColor=0D1117)&nbsp; 
 ![DOTNET](https://img.shields.io/badge/-.net-0D1117?style=for-the-badge&logo=dotnet&logoColor=9400D3&labelColor=0D1117)&nbsp; 
 ![HTML5](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&logoColor=orange&labelColor=0D1117)&nbsp; 
