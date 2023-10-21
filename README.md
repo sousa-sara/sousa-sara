@@ -8,6 +8,6 @@
 ![PYTHON](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=4682B4&labelColor=0D1117)&nbsp; 
 ![Javascript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=ecd23b&labelColor=0D1117)&nbsp;
 ![Node Js](https://img.shields.io/badge/-node_js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=0D1117)&nbsp;
-
+![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&logoColor=9400D3&labelColor=0D1117)&nbsp;
 
 
