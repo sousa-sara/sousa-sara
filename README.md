@@ -1,13 +1,20 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=lucila+console&pause=1000&color=0078d7&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=435&lines=hi%2C+there!;i'm+sara+and...;i'm+%F0%9F%94%99%F0%9F%94%9A+developer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=lucila+console&pause=1000&color=687e42&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=435&lines=hi%2C+there!;i'm+sara!)](https://git.io/typing-svg)
 
-### Tecnologias:
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=9400D3&labelColor=0D1117)&nbsp; 
-![DOTNET](https://img.shields.io/badge/-.net-0D1117?style=for-the-badge&logo=dotnet&logoColor=9400D3&labelColor=0D1117)&nbsp; 
-![HTML5](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&logoColor=orange&labelColor=0D1117)&nbsp; 
-![CSS3](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![PYTHON](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=4682B4&labelColor=0D1117)&nbsp; 
-![Javascript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=ecd23b&labelColor=0D1117)&nbsp;
-![Node Js](https://img.shields.io/badge/-node_js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=0D1117)&nbsp;
-![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&logoColor=9400D3&labelColor=0D1117)&nbsp;
+### Principais Tecnologias:
+
+![POWERBI](https://img.shields.io/badge/Power%20BI-F7DF1E?logo=powerbi&logoColor=black&style=for-the-badge)
+
+![PYTHON](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+
+![ORACLEDATABASE](https://img.shields.io/badge/-Oracle%20Database-F80000?logo=oracle&logoColor=white&style=for-the-badge)
+
+![MYSQL](https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=for-the-badge)
+
+![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)
+
+![SQLITE](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white&style=for-the-badge)
+
+![MICROSOFTAZURE](https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge)
+
 
 
