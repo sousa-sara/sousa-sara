@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=lucila+console&pause=1000&color=687e42&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=435&lines=hi%2C+there!;i'm+sara!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=lucila+console&pause=1000&color=72b1a4&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=435&lines=hi%2C+there!;i'm+sara!)](https://git.io/typing-svg)
 
 ### Principais Tecnologias:
 
