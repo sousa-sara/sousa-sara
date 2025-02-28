@@ -1,20 +1,22 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=lucila+console&pause=1000&color=72b1a4&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=435&lines=hi%2C+there!;i'm+sara!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=lucila+console&pause=1000&color=ffff&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=435&lines=Hi%2C+There!;I'm+Sara+Sousa!;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-### Principais Tecnologias:
+<div align="center">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sousa-sara&hide=issues&show_icons=true&theme=dark">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousa-sara&hide=Jupyter%20Notebook,GDScript,VHDL,verilog,Systemverilog,TeX,shell,css&layout=compact&langs_count=10&theme=dark">
+</div>
 
-![POWERBI](https://img.shields.io/badge/Power%20BI-F7DF1E?logo=powerbi&logoColor=black&style=for-the-badge)
+## 👤 **About Me**
+- Currently studying Systems Analysis and Development at FIAP.
+- Graduated as an Administrative Technician from ETEC.
+- Focused on Back-end Development, Data Analysis, and Cloud Computing.
 
-![PYTHON](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+ ## 🛠️ Academic Projects Journey
+Led academic projects in partnership with Salesforce, Notre Dame Intermédica, Softtek, Odontoprev during my studies.
+Main responsibilities in Back-end development: Using Java Spring Boot and Oracle SQL for mobile and web application integration.
+Experience in Fullstack Development with .NET.
 
-![ORACLEDATABASE](https://img.shields.io/badge/-Oracle%20Database-F80000?logo=oracle&logoColor=white&style=for-the-badge)
+## 🌱 Volunteer & Mentorship
+I volunteered as a Data Analysis Mentor at Reprograma, an organization dedicated to closing the gender gap in the technology industry through education. I supported students with technical challenges and facilitated hands-on lessons.
 
-![MYSQL](https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=for-the-badge)
-
-![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)
-
-![SQLITE](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white&style=for-the-badge)
-
-![MICROSOFTAZURE](https://img.shields.io/badge/Microsoft_Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge)
-
-
-
+## 🎯 My Vision
+Passionate about using my leadership, communication, and technical skills to tackle challenges and drive innovation.
