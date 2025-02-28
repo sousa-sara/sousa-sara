@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=lucila+console&pause=1000&color=ffff&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&width=435&lines=Hi%2C+There!;I'm+Sara+Sousa!;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=lucila+console&pause=1000&color=ffffff&center=false&vCenter=false&repeat=true&width=435&lines=Hi%2C+There!;I'm+Sara+Sousa!;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+
 
 <div align="center">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sousa-sara&hide=issues&show_icons=true&theme=dark">
