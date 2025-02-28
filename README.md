@@ -9,7 +9,7 @@
 ## 👤 **About Me**
 - Currently studying Systems Analysis and Development at FIAP.
 - Graduated as an Administrative Technician from ETEC.
-- Focused on Back-end Development, Data Analysis, and Cloud Computing.
+- Focused on Backend Development, Data Analysis, and Cloud Computing.
 
  ## 🛠️ Academic Projects Journey
 Led academic projects in partnership with Salesforce, Notre Dame Intermédica, Softtek, Odontoprev during my studies.
