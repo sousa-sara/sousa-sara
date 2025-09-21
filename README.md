@@ -8,9 +8,9 @@
 
 ## 👤 **About Me**
 - Pre-Sales Intern at Open Labs
-- Systems Analysis and Development at FIAP.
-- Graduated as an Administrative Technician from ETEC.
-- Focused on Backend Development, Data Analysis, and Cloud Computing.
+- Graduated in Systems Analysis and Development from FIAP
+- Graduated as an Administrative Technician from ETEC
+- Focused on Backend Development, Data Analysis, and Cloud Computing
 
  ## 🛠️ Academic Projects Journey
 Led academic projects in partnership with Salesforce, Notre Dame Intermédica, Softtek, Odontoprev during my studies.
