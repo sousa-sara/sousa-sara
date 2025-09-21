@@ -7,7 +7,8 @@
 </div>
 
 ## 👤 **About Me**
-- Currently studying Systems Analysis and Development at FIAP.
+- Pre-Sales Intern at Open Labs
+- Systems Analysis and Development at FIAP.
 - Graduated as an Administrative Technician from ETEC.
 - Focused on Backend Development, Data Analysis, and Cloud Computing.
 
